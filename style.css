@@ -8,7 +8,7 @@ div.form-header{
 }
 div.header-top{
 	width: 100%;
-	background: #cc3737;
+	background: #e8e8e8;
 	float: top;
 }
 div.header-menu{
@@ -73,7 +73,7 @@ a{
 	width: 100%;
 	/* border: 1px solid #333; */
 	/* padding: 10px; */
-	background: pink;
+	background: #56adef;
 	text-align: center;
 	margin-right: 10px;
 }
@@ -98,9 +98,9 @@ a{
 #banquyen{
 	width: 99.89%;
 	height: 50px;
-	border: 1px solid #df5b92; 
+	border: 1px solid #0290f9; 
 	text-align: center;
-	background: #eb3c3c;
+	background: #248ad8;
 	color: white;
 	/* margin-top: -1px; */
 }
